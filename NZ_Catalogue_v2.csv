@@ -1,4 +1,4 @@
-Name of Catalogue,Authors,Region of interest,Start date,End date,DOI,Link to catalogue,Content,Additional comments,Contact,,,
+Name of Catalogue,Authors,Region of interest,Start date,End date,DOI/reference,Link to catalogue,Content,Additional comments,Contact,,,
 GeoNet Aotearoa New Zealand Earthquake Catalogue,"GeoNet, GNS Science",NZ,11/05/1773,present,https://doi.org/10.21420/0S8P-TZ38,https://www.geonet.org.nz/data/types/eq_catalogue,"Rapid, Manual, Response, Research, Reviewed",,j.salichon@gns.cri.nz,,,
 GeoNet Aotearoa New Zealand Earthquake Moment Tensor Solutions,"Ristau, GeoNet, GNS Science",NZ,21/08/2003,present,https://doi.org/10.21420/MMJ9-CZ67,https://github.com/GeoNet/data/tree/main/moment-tensor,"Rapid, Moment Tensor, Reviewed",,j.ristau@gns.cri.nz,,,
 Augmented NZ earthquake catalogue used in NZ NSHM 2022,"Rollins, NSHM, GNS Science",NZ,,,https://doi.org/10.21420/1SJE-E991,https://nshm-static-reports.gns.cri.nz/NSHM/ScienceReports/SR2021-58%20NSHM%20Earthquake%20Depths_FINAL.pdf,"Static, Various Sources",,c.rollins@gns.cri.nz,,,
